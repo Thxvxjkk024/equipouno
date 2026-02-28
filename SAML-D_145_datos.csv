@@ -144,3 +144,4 @@ Hora_transaccion,Fecha,Cuenta_envia,Cuenta_recibe,Cantidad_transferida,Moneda_en
 11:30:41,2022-10-17,5976274036,6780793980,13879.35,UK pounds,Pakistani rupee,UK,Pakistan,Cross-border,0,Normal_Fan_Out
 18:18:16,2023-01-09,2404907438,9481135794,18790.34,UK pounds,Pakistani rupee,UK,Pakistan,Cross-border,0,Normal_Small_Fan_Out
 22:49:44,2023-03-21,1789818117,750737722,11375.14,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Fan_In
+12:00:00,2023-09-01,9999999999,8888888888,15000.00,UK pounds,Euro,UK,Spain,Cross-border,0,Normal_Fan_Out

@@ -12,3 +12,16 @@ print("Carga de datos simulada y análisis preliminar completado con éxito.")
 # Fecha: 28/02/2026
 
 print("Revision realizada por colaborador A.")
+
+# Proyecto: Analisis de Transacciones
+# Autor: carlos enrique guerra rivera
+# Fecha: 28/02/2026
+
+archivo = "SAML-D_145_datos.csv"
+
+with open(archivo, "r", encoding="utf-8") as f:
+    lineas = f.readlines()
+
+total_registros = len(lineas) - 1  # se resta el encabezado
+
+print("Total de registros:", total_registros)

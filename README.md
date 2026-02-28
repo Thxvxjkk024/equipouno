@@ -5,7 +5,7 @@
 # Autor: carlos enrique guerra rivera 
 # Fecha: 28/02/2026
 
-print("Analisis de datos iniciado...")
+print("--- Iniciando el sistema de análisis de datos ---")
 
 archivo = "SAML-D_145_datos.csv"
 

@@ -1,3 +1,10 @@
+# Proyecto: Analisis de Transacciones
+# Equipo: Equipo 1
+# Administrador: Thelma Getzemani Avila Martinez
+# Fecha: 28/02/2026
+# Descripción: Resolución de conflicto e integración final del archivo de datos.
+
+
 # Iniciales: N. G. F. E.
 # Fecha de modificación: 28 de febrero de 2026
 # Comentario: Script inicial para la lectura y exploración del dataset del equipo.
